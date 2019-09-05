@@ -1,5 +1,23 @@
 html {
-  background-color: grey;
+  background-color: black;
   color: white;
+  font-family: comic sans ms;
 }
 
+h1 {
+  color: white;
+  opacity: .8;
+}
+
+ h2 {
+   color: orange;
+   text-align: center;
+  }
+
+ p {
+   text-align: center;
+   color: green;
+   opacity: .8;
+   margin-left: 200px;
+   margin-right: 200px;
+ }
